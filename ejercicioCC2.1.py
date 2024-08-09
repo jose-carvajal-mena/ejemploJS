@@ -3,7 +3,7 @@ B = [[10,12,15,],[4,5,6],[70,85,90]] #0,1,2
 
 C = []
 
-
+print("hola")
 for i  in range(0,3):
     for x in range(0,3):
         C.append(A[i][x]+B[i][x])
